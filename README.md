@@ -35,3 +35,8 @@ Market Dominance: High-volume brands like Maruti and Hyundai dominate market ava
 Fuel Trends: Petrol and Diesel vehicles hold the maximum market share. While Petrol cars offer a lower initial purchase cost, Diesel cars maintain a strong presence due to better mileage efficiency over long distances.
 
 Depreciation Impact: Vehicle valuation drops significantly with each successive ownership change. First-owner cars retain the highest market value, whereas a sharp decline is seen from second to third-party owners.
+
+
+<img width="1058" height="658" alt="Screenshot 2026-07-01 160850" src="https://github.com/user-attachments/assets/2ad98736-3f48-4576-b5ad-55508c62eb99" />
+<img width="797" height="611" alt="Screenshot 2026-07-01 160922" src="https://github.com/user-attachments/assets/ce0c10e1-ed61-46c3-acab-0dcd3df7d8d8" />
+
