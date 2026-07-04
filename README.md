@@ -1,6 +1,6 @@
 # cardekho-data-anylysis
 
-# 🚗 CarDekho - Used Car Market Data Analysis & Insights (SQL)
+# CarDekho - Used Car Market Data Analysis & Insights (SQL)
 
 ## 📌 Project Overview
 This project focuses on analyzing the used car market using the CarDekho dataset. The objective is to extract meaningful business insights regarding pricing strategies, brand positioning, customer preferences (fuel and owner types), and performance factors. 
